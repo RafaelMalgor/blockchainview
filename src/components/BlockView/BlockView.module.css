@@ -1,0 +1,33 @@
+.block {
+    border-color: rgb(52, 165, 42);
+    border-width: 2px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    width: 32ch;
+    border-radius: 10px;
+    background-color: #226f6f;
+    box-shadow: 10px 10px 10px #0000009e;
+}
+
+label{
+    font-size: small;
+    text-align: left;
+    margin: 5px 5px 5px 5px;
+}
+
+textarea, input{
+    box-shadow: 0 0 10px #c56060;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+
+.invalid{
+    border-color: red;
+}
+
+.button{
+    margin-left: 25%;
+    margin-bottom: 5px;
+    width: 50%;
+}

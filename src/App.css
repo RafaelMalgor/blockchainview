@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap');
+*{
+  font-family: 'Inconsolata', monospace;
+}
+
+body{
+  background-color: #202d44;
+  color:rgb(195 195 195);
+}
+.App {
+}
+
+.container{
+  border: solid;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  border-color: black;
+}
+
+
+
+button{
+  padding: 5px;
+  background-color: rgb(104 16 95);
+  border:none;
+  border-radius: 5px;
+  color:rgb(160, 160, 160);
+}
